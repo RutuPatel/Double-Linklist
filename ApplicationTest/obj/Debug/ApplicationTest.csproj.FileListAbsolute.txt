@@ -1,0 +1,7 @@
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.exe.config
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.exe
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\bin\Debug\ApplicationTest.pdb
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.csprojAssemblyReference.cache
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.exe
+C:\Users\Rutu\Desktop\ApplicationTest\ApplicationTest\obj\Debug\ApplicationTest.pdb
